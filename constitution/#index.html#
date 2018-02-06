@@ -1,0 +1,236 @@
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Upsilon Pi Epislon: The computer science honor society. Massachusetts Alpha Chapter.">
+    <title>Upsilon Pi Epislon: The Computer Science Honor Society</title>
+    <link rel="stylesheet" href="/css/foundation.css" />
+    <link rel="canonical" href="http://upe.wpi.edu/constitution/">
+    <script src="/js/vendor/modernizr.js"></script>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+</head>
+
+  <body>
+    <div class="row">
+  <div class="large-5 columns">
+    <img src="/img/logo.jpg" alt="Upsilon Pi Epsilon">
+  </div>
+  <div class="large-7 columns">
+    <ul class="right button-group">
+      <li><a href="/" class="button">Home</a></li>
+      <li><a href="/members/" class="button">Members</a></li>
+      <li><a href="/events/" class="button">Events</a></li>
+      <li><a href="/constitution/" class="button">Constitution</a></li>
+    </ul>
+  </div>
+</div>
+    <div class="row">
+  <div class="large-12 columns">
+    <h1>Alpha Chapter Constitution</h1>
+    <h2>Upsilon Pi Epsilon Association</h2>
+
+    <h3 id="constitutionArticleI" ><a href="#constitutionArticleI">Article I: Name and Object</a></h3>
+
+    <ol>
+      <li>The name of this organization shall be the Alpha Chapter of Massachusetts of the Upsilon Pi Epsilon Association, an Honor Society in Computer Science.</li>
+      <li>The object of this Chapter of the Association Shall be the promotion of high scholarship and original investigation in the several branches of Computer Science.</li>
+      <li>The Alpha Chapter of the Association shall be located at Worcester Polytechnic Institute,Worcester, Massachusetts.</li>
+    </ol>
+    <h3 id="constitutionArticleII" ><a href="#constitutionArticleII">Article II: Government</a></h3>
+
+    <ol>
+      <li>The Alpha Chapter shall be governed by this Constitution together with amendments to the same as hereinafter provided, and the By-laws enacted to proveide for those governmental functions of a more routine nature.</li>
+      <li>The By_laws of this Chapter shall be adopted and changes thereto enacted after a reading at one meeting and by an affirmative vote two-thirds of the Active members of the Chapter at the next metting or by mail.</li>
+      <li>The provisions of this Constitution shall be subordinate to those of the Constition and By-Laws of the Upsilon Pi Epsilon Association.</li>
+    </ol>
+
+    <h3 id="constitutionArticleIII" ><a href="#constitutionArticleIII">Article III: Membership</a></h3>
+
+    <ol>
+      <li>This Chapter shall consist of Members and Honorary Members.</li>
+      <li>The membership of the Chapter shall by made up of individuals whose acedemic achievements, reputations and creative abilities deserve recognition, and whose membership would enhance the stature of the Association. Specifically, the membership shall include graduate students, undergraduate students, former students, and faculty in the Computer Science at Worcester Polytechnic Institute, elected according to the procedures detailed in Article IV of this Constitution.</li>
+      <li>Honorary Members shall be individuals of distinguished achievement in the Computer field.</li>
+      <li>Eligibility for membership shall not be restricted according to race, creed, color, or sex.</li>
+      <li>The Active Membership of this Chapter of the Association shall consist of those Members who satisfy the fiscal and attendance requirements set forth in the By_Laws. The privilege of voting in membership elections and participation in other official function of the Chapter shall be restricted to Active Members.</li>
+    </ol>
+
+    <h3 id="constitutionArticleIV" ><a href="#constitutionArticleIV">Article IV: Election of Members</a></h3>
+
+    <ol>
+      <li>The eligility of students, former students, and faculty for election to membership in this Chapter of the Upsilon Pi Epsilon Association shall be determined as follows:
+        <ol>
+          <li>A graduate student must be a candidate for a graduate degree in Computer Science, and must have completed at least twelve credits of graduate study, three-quarters of this with a grade level of A.</li>
+          <li>Undergraduate student eligibility shall be junior or senior status, a minimum of two Computer Science related units, with a majority of A's in Computer Science, and a majority of A's and B's in non Computer Science courses.</li>
+          <li>If a candidate for membership does not meet the strict acedemic requirements stated above, he or she may be proposed for membership before the active members of the chapter. Candidacy for membership shall then be considered by discussion focusing on the individual's contribution to the field.</li>
+          <li>A faculty member must have been teaching in the Computer Science program or in a field closely related thereto, at Worcester Polytechnic Institute for at least one year in order to be eligible for membership in the Association. He or she must have been in responsible charge of development, preparation, or presentation of courses, or in charge of research in the Computer Science field. Achievements in research and teaching shall determine eligibility for a faculty member, rather that scholastic achievements.</li>
+          <li>Former students who, at the time of their completion of degree requirements in Computer Science, satisfied the admission requirements shall be eligible for election to membership in this Chapter of the Association.</li>
+          <li>Former students who do not qualify under the provisions of the previous subsection, but whose achievements in and contributions to the Computing field qualify them shall be eligible for election to membership in the Association.</li>
+        </ol>
+      </li>
+      <li>Each candidate must be discussed individually by name. The balloting for his election shall be carried out before the next candidate is considered. In case a candidate fails a first ballot, he may be discussed further, and a second and final vote shall be taken. On a failure at the second ballot, the individual shall not be considered for membership again that year.</li>
+      <li>Election of a candidate to membership shall be by three-fourths affirmative vote by the Members present and voting.</li>
+      <li>The maximum number of members shall not be limited.</li>
+      <li>The procedure for nomination and induction of new members shall be conducted twice per year. It should be noted that no individuals may meet the requirements for induction.</li>
+      <li>Membership should not be offered to a particular individual a second time if such membership has been previously declined by that individual for any reason with the exception of hardship cases.</li>
+    </ol>
+
+    <h3 id="constitutionArticleV" ><a href="#constitutionArticleV">Article V: Officers</a></h3>
+
+    <ol>
+      <li>The Executive Council of the Chapter shall consist of the Faculty Advisor and the following elected officers: President, Vice-President, Recording Secretary, Corresponding Secretary, and Treasurer.</li>
+      <li>The duties of the President shall be to preside at all meetings, to create and appoint committees as necessary, and to authorize payment of bills presented against the Chapter.</li>
+      <li>The duties of the Vise-President shall be to perform the duties of President in the absence of the President. He shall also become President in case of the resignation or disability of the President. In addition, he shall be responsible for the co-ordination of committees and proper conduct of meetings.</li>
+      <li>The duties of the Recording Secretary shall be to keep records of all the transactions of the Chapter, and in particular to keep the minutes of the meetings.</li>
+      <li>The duties of the Corresponding Secretary shall be to handle all the correspondence of the Chapter.  The Recording and Corresponding Secretary may be one and the same individual if the President so designates.</li>
+      <li>The duties of the Treasurer shall be to collect all dues and assessments and to issue, with the assistance of the Corresponding Secretary, notices of special assessments. He shall have charge of all funds of the Chapter, and shall pay therefrom bills presented against the Chapter and approved for payment.</li>
+      <li>The Faculty Advisor shall be a senior member of the Computer Science teaching staff. The duties of the Faculty Advisor shall be to consult on matters of Chapter policy and to act as auditor of Chapter finances.</li>
+      <li>Election of officers shall be held after the election of new Members each Spring. Newly elected officers shall begin to serve at the meeting following their election.</li>
+      <li>Vacancies in any office shall be filles by special election.</li>
+    </ol>
+
+    <h3 id="constitutionArticleVI" ><a href="#constitutionArticleVI">Article VI: Ratification and Amendment</a></h3>
+
+    <ol>
+      <li>This Consitution shall become effective immediately upon ratification by a three-fourths majority vote of the Active Membership.</li>
+      <li>This Constitution shall remain in effect until revised or amended.</li>
+      <li>Amendments to this Constitution maybe proposed by any Members of the Chapter at a regular or special meeting. The proposed amendment must be formally stated. The proposed amendment shall be discussed, and if a quorum is present, then a three-fourths majority vote of the Active Members present shall be sufficient for ratification.</li>
+      <li>The amendment shall become effective immediately upon ratification.</li>
+    </ol>
+
+  </div>
+  <hr>
+</div>
+
+<div class="row">
+  <div class="large-12 columns">
+
+    <h1>Alpha Chapter By-laws</h1>
+    <h2>Upsilon Pi Epsilon Association</h2>
+
+    <h3 id="byLawsArticleI"><a href="#byLawsArticleI">Article I: Scope of the By-Laws</a></h3>
+    <ol>
+      <li>These By-Laws shall govern the conduct of the Chapter in those matters not specifically treated in the Constitution.</li>
+      <li>Provisions of these By-Laws shall be subordinate to those of the Constitution.</li>
+    </ol>
+
+    <h3 id="byLawsArticleII"><a href="#byLawsArticleII">Article II: Election of the Officers</a></h3>
+    <ol>
+      <li>The Officers of the Chapter shall be elected at the first business meeting after the election of new Members.</li>
+      <li>Installion of Officers shall take place at the meeting following their election.</li>
+      <li>The newly elected Officers shall assume their duties upon installation.</li>
+      <li>In order to be eligible to hold office, the President must have been active in the Chapter for the equivalent of one term.</li>
+      <li>The Officers of this Chapter shall be elected by secret ballot.</li>
+      <li>There shall be no voting of proxies allowed.</li>
+      <li>In addition to the Officers designated in the Constitution, this Chapter may elect a Social Chairman and an Alumni Secretary.</li>
+      <li>The Faculty Advisor shall be selected from the Computer Science teaching staff.</li>
+    </ol>
+
+    <h3 id="byLawsArticleIII"><a href="#byLawsArticleIII">Article III: Chapter Meetings</a></h3>
+    <ol>
+      <li>Regular meetings will be held at least once per term, excepting the Summer term.</li>
+      <li>Special meetings may be called by the President, the Executive Council, or by petition of one-half of the Active Membership of the Chapter.</li>
+      <li>A quorum shall consist of one third of the Active members of the Chapter in the conduct of the business of the Chapter, except for the election of Officers or new Members, at which three-quarters of the Active Members of the Chapter must be present.</li>
+      <li>Except as specifically stated in the Constitution and By-Laws, the parliamentary guide for the conduct of all meetings shall by Roberts' Rules of Order.</li>
+      <li>The order of conduct of a regular meeting shall be as follows:
+        <ul>
+          <li>Call to order</li>
+          <li>Roll call</li>
+          <li>Reading of minutes</li>
+          <li>Committe reports</li>
+          <li>Unfinished business</li>
+          <li>New business</li>
+          <li>Program or technical session (optional)</li>
+          <li>Adjournment</li>
+        </ul>
+      </li>
+      <li>Initiation of new Members shall be notified of a special meeting called for that purpose.</li>
+      <li>All Active Members shall be notified of a special meeting and its purpose by the Corresponding Secretary one week prior to the meeting.</li>
+      <li>No business shall be conducted at a called special meeting except that for which the meeting was called.</li>
+    </ol>
+
+
+    <h3 id="byLawsArticleIV"><a href="#byLawsArticleIV">Article IV: Attendance</a></h3>
+    <ol>
+      <li>Active Members shall be required to attend three-quarters of all meetings of the Chapter.</li>
+      <li>Any Member who fails to attend fifty percent of all meetings, or who missed three consecutive meetings, shall automatically revert to inactive status.</li>
+      <li>Restoration of a Member to Active Member status shall be by affirmative vote of a majority of the Active Members present, and the payment of five dollars.</li>
+    </ol>
+
+    <h3 id="byLawsArticleV"><a href="#byLawsArticleV">Article V: Special Duties</a></h3>
+    <ol>
+      <li>In addition to his regular duties, the Recording Secretary shall make all arrangements fro the regular and special meetings.</li>
+      <li>In addition to his regular duties, the Vice-President shall perform the duties of the Parliamentarian.</li>
+    </ol>
+
+    <h3 id="byLawsArticleVI"><a href="#byLawsArticleVI">Article VI: Fincances</a></h3>
+    <ol>
+      <li>The minimum cash balance at the end of each school year shall be fifty dollars. Any deficiency from this amount shall be made up by an assessment of the Active Members.</li>
+      <li>The initiation fee charged each new Member by the Chapter shall be five dollars, in addition to the initiation fee of the Association.</li>
+      <li>Each initiate shall be required to pay all dues and initiation fees prior to his initiation.</li>
+      <li>One week before the election of officers, the Treasurer shall submit to the President and the Faculty Advisor a written statment of the Financial condition of the Chapter. At the election meeting, this will be submitted to the Chapter, and will be entered into the minutes upon acceptance by the Chapter.</li>
+      <li>Special assessments may be made at any time, upon approval of three-fourths of the Active Members of the Chapter.</li>
+    </ol>
+
+    <h3 id="byLawsArticleVII"><a href="#byLawsArticleVII">Article VII: Initiation</a></h3>
+    <ol>
+      <li>The initiation of new Members shall be held within four weeks of the time of their election.</li>
+      <li>The initiation shall specifically avoid any practive which conflicts with WPI regulations or which constitutes an attack upon the personal dignity for the initiates. The activities shall be devised to stimulate the candidates interest in Computer Science and to acquaint them better with the Members of the Chapter.</li>
+      <li>The last class of initiates shall consitute the Initiation Committee for newly elected Members. The President shall serve as chairman and a member ex-officer of the Initiation Commitee. It shall be the duty of this committee to assist the Corresponding Secretary with the written notification of all candidates with respect to their election as soon thereafter as possible, and to instruct the initiates concerning their pre-initiation duties, which shall be determined by the Initiation Committee with approval of the Faculty Advisor.</li>
+    </ol>
+
+    <h3 id="byLawsArticleVIII"><a href="#byLawsArticleVIII">Article VIII: Election of Members</a></h3>
+    <ol>
+      <li>There shall be one election of new Members each year.</li>
+      <li>The Mebership Committee shall prepare a list of all eligible candidates, ordered with faculty members first, followed by students ranked according to analysis of academic standing.</li>
+      <li>The list prepared according tot the preceding section shall be submitted to faculty Members of the Association, who shall be asked to make written remarks with respect to the fitness of the candidates with whom they are acquainted.</li>
+      <li>The list of eligible candidates, together with the faculty members' remarks, shall be submitted to the Faculty Advisory Committee of the Chapter for final screening.</li>
+      <li>The candidates from the list prepared by the Membership Committee who are favorably recommended by the Faculty Advisory Committeee shall have their names, and the remarks obtained under Section 3 of this Article, presented at the election meeting.</li>
+      <li>Election of the candidates so selected to Membership shall be held according to Section or article IV of the Constitution of this Chapter.</li>
+      <li>The names of those elected to membership shall be given to Corresponding Secretary, who shall then issue them invitations to become Members of the Association, and of this Chapter.</li>
+      <li>Failure of a Member-elect to notify the Chapter of his acceptance of the invitation to Membership within one week of its issuance shall constitute notice of refusal.</li>
+    </ol>
+
+    <h3 id="byLawsArticleIX"><a href="#byLawsArticleIX">Article IX: Standing Committees</a></h3>
+    <ol>
+    <li>The President shall appoint a committee of not less than three active members, one of whom shall be designated Chairman, to pursue the establishment of the Association as an honor Society in Computer Science on a national level.</li>
+      <li>The President shall appoint a committee of not less that three Active Members to develop, with the advice and counsel of the Faculty Advisor, a formal ritual to be followed in the initiation of Members and in the initiation of Officers. This committeee shall further function in cooperation with the national organization committee of the previous Section with respect to Chapter installation ceremonies.</li>
+      <li>The President shall appoint a committee of not less that three Active Members, one of whom shall be desinated Chairman, to compile eligibility data and prepare lists of eligible candidates for membership in the Assocation, as required in Sections 2 and 3 of Article VIII of these By-Laws.</li>
+    </ol>
+    <h3 id="byLawsArticleX"><a href="#byLawsArticleX">Article X: Adoption and Amendment</a></h3>
+    <ol>
+      <li>These By-Laws shall become effective immediately upon adoption.</li>
+      <li>These By-Laws shall remain in effect until revised or amended.</li>
+      <li>A provision of these By-Laws may be temporarily suspened by a two-thirds vote of the Active Membership of the Chapter. The period of which the suspension is valid shall be dtermined at the time of the vote.</li>
+      <li>A proposed amendment to these By-Laws must have two readings, with a provision for discussion at each, prior to voting thereon.</li>
+      <li>A two-thirds affirmative vote of the Active membership of the Chapter shall be required for the adoption of an amendment to these By-Laws.</li>
+      <li>These By-Laws shall be kept current by pen-and-ink correction and inseration of supplementary sheets whenever necessary.</li>
+    </ol>
+
+    <h3 id="byLawsArticleXI"><a href="#byLawsArticleXI">Article XI: SOC Enabling Clause</a></h3>
+    <ol>
+      <li>The Alpha Chapter of Massachusetts of the UPSILON PI EPSILON ASSOCIATION agrees to abide by the policies of Worcester Polytechnic Institute as well as federal, state, and local laws.</li>
+    </ol>
+
+  </div>
+</div>
+    <footer class="row">
+  <div class="large-12 columns">
+    <hr/>
+    <div class="row">
+      <div class="large-6 columns">
+        <p>&copy; Copyright WPI UPE Chapter.</p>
+      </div>
+      <div class="large-6 columns">
+        <ul class="inline-list right">
+          <li><a href="/">Home</a></li>
+          <li><a href="/members/">Members</a></li>
+          <li><a href="/events/">Events</a></li>
+          <li><a href="/constitution/">Constitution</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+  </body>
+</html>
