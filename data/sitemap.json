@@ -1,0 +1,20 @@
+{
+  "pages": [
+    {
+      "title": "Home",
+      "url": "index.html"
+    },
+    {
+      "title": "Members",
+      "url": "members.html"
+    },
+    {
+      "title": "Events",
+      "url": "events.html"
+    },
+    {
+      "title": "Bylaws",
+      "url": "bylaws.html"
+    }
+  ]
+}
