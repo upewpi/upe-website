@@ -71,7 +71,7 @@ function InductionListGenerator(){
     var initiationString = "";
 
     var initiationYears = Object.keys(initiations.initiations);
-    initiationYears = initiationYears.sort().reverse();
+    initiationYears = initiationYears.map(elt => parseInt(elt)).sort((a1, a2) => a2 - a1);
 
     initiationYears.forEach(initiation => {
       initiationString += inducteesToHTML(initiation, initiations.initiations[initiation], initiations.inductees[initiation]);
@@ -88,7 +88,7 @@ function parseInitiationsCSV(csvString){
     if (!initiation[0]){
       continue;
     }
-    initiations[+initiation[0]] = initiation[1];
+    initiations[parseInt(initiation[0])] = initiation[1];
   }
   return initiations;
 }
@@ -102,10 +102,10 @@ function parseMembersCSV(csvString){
     if (!member[0]){
       continue;
     }
-    if (initiations[+member[0]]){
-      initiations[+member[0]].push(member[1])
+    if (initiations[parseInt(member[0])]){
+      initiations[parseInt(member[0])].push(member[1])
     } else {
-      initiations[+member[0]] = [member[1]];
+      initiations[parseInt(member[0])] = [member[1]];
     }
   }
   return initiations;
