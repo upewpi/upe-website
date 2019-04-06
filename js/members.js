@@ -1,7 +1,4 @@
-fetch('data/members.csv')
-  .then(res => res.text())
-  .then(data => {
-    var initiations = parseMembersCSV(data);
+loadInitiations().then(initiations => {
     var initiationsDiv = document.getElementById('initiations');
     if (initiations && initiationsDiv){
       var htmlGenerator = new InductionListGenerator();
@@ -9,19 +6,31 @@ fetch('data/members.csv')
     }
   });
 
+
+function loadInitiations(){
+  return fetch('data/members.csv')
+    .then(res => res.text())
+    .then(data => parseMembersCSV(data));
+}
+
 /**
- * An HTML generator which converts a map of induction year to member names to an unordered list.
+ * An HTML generator which converts a map of initation to member names to an unordered list.
  * @constructor
  */
 function InductionListGenerator(){
 
-  function inducteesToHTML(year, inductees){
-    var initiationString = "<h3>Initiation #" + year + "</h3>\n<ul>";
+  function inducteesToHTML(initation, inductees){
+    var initiationString = initationToHTML(initation);
+    initiationString += "\n<ul>"
     inductees.forEach(member => {
       initiationString += memberToHTML(member) + "\n";
     });
     initiationString += "</ul>\n";
     return initiationString;
+  }
+
+  function initationToHTML(initation){
+    return "<h3>" + initation + "</h3>";
   }
 
   function memberToHTML(memberName){
@@ -36,11 +45,11 @@ function InductionListGenerator(){
   this.toHTML = function(initiations){
     var initiationString = "";
 
-    var initiationYears = Object.keys(initiations);
+    var initiationYears = Object.keys(initiations.initiations);
     initiationYears = initiationYears.sort().reverse();
 
-    initiationYears.forEach(year => {
-      initiationString += inducteesToHTML(year, initiations[year]);
+    initiationYears.forEach(initation => {
+      initiationString += inducteesToHTML(initiations.initiations[initation], initiations.inductees[initation]);
     });
     return initiationString;
   }
@@ -48,16 +57,20 @@ function InductionListGenerator(){
 
 function parseMembersCSV(csvString){
   var parsed = Papa.parse(csvString);
-  var initiations = {};
+  var initiations = {
+    "initiations": {},
+    "inductees": {}
+  };
   for (var i = 1; i < parsed.data.length; i++){
     var member = parsed.data[i];
     if (!member[0]){
       continue;
     }
-    if (initiations[+member[0]]){
-      initiations[+member[0]].push(member[1]);
+    if (initiations.initiations[+member[0]]){
+      initiations.inductees[+member[0]].push(member[2])
     } else {
-      initiations[+member[0]] = [member[1]];
+      initiations.initiations[+member[0]] = member[1];
+      initiations.inductees[+member[0]] = [member[2]];
     }
   }
   return initiations;
