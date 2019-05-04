@@ -1,34 +1,87 @@
-loadInitiations().then(initiations => {
-  loadInductees().then(inductees => {
-    var initiationsDiv = document.getElementById('initiations');
-    var combinedInitiations = {
-      'initiations': initiations,
-      'inductees': inductees
-    };
-    if (initiations && initiationsDiv){
-      var htmlGenerator = new InductionListGenerator();
-      initiationsDiv.innerHTML = htmlGenerator.toHTML(combinedInitiations);
-    }
-  });
+var inducteeLoadingStrategy = new CSVInducteeLoadingStrategy('data/members.csv', 'data/initiations.csv');
+
+inducteeLoadingStrategy.load().then(combinedInitiations => {
+  var initiationsDiv = document.getElementById('initiations');
+  if (combinedInitiations.initiations && initiationsDiv){
+    var htmlGenerator = new ListHTMLGeneratorStrategy();
+    initiationsDiv.innerHTML = htmlGenerator.toHTML(combinedInitiations);
+  }
 });
 
+// Loading Strategies
+// InducteeLoadingStrategy.load() -> Promise<{'inductees': Map<initiation # (number), names (String [*])>,
+//                                            'initiations': Map<initiation # (number), date (String)>}>
+
+/**
+ * An inductee loading strategy which loads inductees from two CSV files (initiation number, date) and (initiation number, name)
+ * @constructor
+ */
+function CSVInducteeLoadingStrategy(inducteeCSVFilename, initiationCSVFilename){
+
+  function parseInitiationsCSV(csvString){
+    var parsed = Papa.parse(csvString);
+    var initiations = {};
+    for (var i = 1; i < parsed.data.length; i++){
+      var initiation = parsed.data[i];
+      if (!initiation[0]){
+        continue;
+      }
+      initiations[parseInt(initiation[0])] = initiation[1];
+    }
+    return initiations;
+  }
+
+
+  function parseMembersCSV(csvString){
+    var parsed = Papa.parse(csvString);
+    var initiations = {};
+    for (var i = 1; i < parsed.data.length; i++){
+      var member = parsed.data[i];
+      if (!member[0]){
+        continue;
+      }
+      if (initiations[parseInt(member[0])]){
+        initiations[parseInt(member[0])].push(member[1])
+      } else {
+        initiations[parseInt(member[0])] = [member[1]];
+      }
+    }
+    return initiations;
+  }
+
   function loadInductees(){
-    return fetch('data/members.csv')
+    return fetch(inducteeCSVFilename)
       .then(res => res.text())
       .then(data => parseMembersCSV(data));
   }
 
-function loadInitiations(){
-  return fetch('data/initiations.csv')
-    .then(res => res.text())
-    .then(data => parseInitiationsCSV(data));
+  function loadInitiations(){
+    return fetch(initiationCSVFilename)
+      .then(res => res.text())
+      .then(data => parseInitiationsCSV(data));
+  }
+
+  this.load = function(){
+    return loadInitiations().then(initiations => {
+      return loadInductees().then(inductees => {
+        return {
+          'initiations': initiations,
+          'inductees': inductees
+        };
+      });
+    });
+  };
 }
+
+// HTML generator strategies
+// HTMLGeneratorStrategy.toHTML(initiations) -> String
+// @see InducteeLoadingStrategy#load() for details on the initiations object
 
 /**
  * An HTML generator which converts a map of initation to member names to an unordered list.
  * @constructor
  */
-function InductionListGenerator(){
+function ListHTMLGeneratorStrategy(){
 
   function inducteesToHTML(initiation, date, inductees){
     var initiationString = initationToHTML(date, initiation);
@@ -78,35 +131,4 @@ function InductionListGenerator(){
     });
     return initiationString;
   }
-}
-
-function parseInitiationsCSV(csvString){
-  var parsed = Papa.parse(csvString);
-  var initiations = {};
-  for (var i = 1; i < parsed.data.length; i++){
-    var initiation = parsed.data[i];
-    if (!initiation[0]){
-      continue;
-    }
-    initiations[parseInt(initiation[0])] = initiation[1];
-  }
-  return initiations;
-}
-
-
-function parseMembersCSV(csvString){
-  var parsed = Papa.parse(csvString);
-  var initiations = {};
-  for (var i = 1; i < parsed.data.length; i++){
-    var member = parsed.data[i];
-    if (!member[0]){
-      continue;
-    }
-    if (initiations[parseInt(member[0])]){
-      initiations[parseInt(member[0])].push(member[1])
-    } else {
-      initiations[parseInt(member[0])] = [member[1]];
-    }
-  }
-  return initiations;
 }
