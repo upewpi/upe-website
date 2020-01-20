@@ -12,6 +12,13 @@ inducteeLoadingStrategy.load().then(combinedInitiations => {
 // InducteeLoadingStrategy.load() -> Promise<{'inductees': Map<initiation # (number), names (String [*])>,
 //                                            'initiations': Map<initiation # (number), date (String)>}>
 
+function Member(initiation, name, inactive) {
+  this.initiation = parseInt(initiation);
+  this.name = name;
+  // If inactive isn't passed, the member is by default active
+  this.inactive = inactive === undefined ? false : JSON.parse(inactive);
+}
+
 /**
  * An inductee loading strategy which loads inductees from two CSV files (initiation number, date) and (initiation number, name)
  * @constructor
@@ -36,14 +43,16 @@ function CSVInducteeLoadingStrategy(inducteeCSVFilename, initiationCSVFilename){
     var parsed = Papa.parse(csvString);
     var initiations = {};
     for (var i = 1; i < parsed.data.length; i++){
-      var member = parsed.data[i];
-      if (!member[0]){
+      var raw_member = parsed.data[i];
+      if (!raw_member[0]){
         continue;
       }
-      if (initiations[parseInt(member[0])]){
-        initiations[parseInt(member[0])].push(member[1])
+
+      var member = new Member(...raw_member);
+      if (initiations[member.initiation]){
+        initiations[member.initiation].push(member)
       } else {
-        initiations[parseInt(member[0])] = [member[1]];
+        initiations[member.initiation] = [member];
       }
     }
     return initiations;
@@ -111,8 +120,11 @@ function ListHTMLGeneratorStrategy(){
     return "<h3>" + date + ", " +  initiation + postfix + " Initiation</h3>";
   }
 
-  function memberToHTML(memberName){
-    return "<li>" + memberName + "</li>";
+  function memberToHTML(member){
+    let memberString = member.name;
+    memberString += member.inactive ? ' <span class="inactive">(inactive)</span>' : '';
+
+    return `<li>${memberString}</li>`;
   }
 
   /**
