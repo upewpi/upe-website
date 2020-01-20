@@ -1,652 +1,652 @@
-initiation,name
-1,"Norman Sondak"
-1,"Stephen Alpert"
-1,"Leonard Lipner"
-1,"Charles Pritchard"
-1,"Norman Rolm"
-1,"Ramon Scott"
-1,"James Perry"
-1,"Richard Daihorski"
-1,"Kathleen McCarthy"
-2,"Michael Malanca"
-2,"Joseph Soetens"
-2,"Gerard Robidoux"
-2,"Gregory Walsh"
-2,"William Marshall"
-2,"Craig Plourde"
-3,"Jean Smelewicz"
-3,"Kenneth Hu"
-4,"John Wilson"
-4,"David Chabot"
-4,"Roger Heinen"
-4,"Richard Hully"
-4,"George Kaczowka"
-4,"Jean Pritchard"
-4,"Riebaed Habworth"
-4,"David Wason"
-4,"Michael Banovsky"
-4,"Marc DeVoe"
-4,"Richard Garstka"
-4,"David Kinder"
-4,"Craig Lamb"
-4,"Kathleen Morse"
-4,"Michael Stadelmann"
-4,"Frank Vanecek"
-4,"Joseph Whistor"
-5,"Ralph Chapman"
-5,"Richard Amtorz"
-5,"Michael Kenniston"
-5,"John McGee"
-5,"Edward Menard"
-5,"Eric Northrop"
-5,"John Wallace"
-5,"Steven Wolfe"
-6,"John Arnold"
-6,"Annemarie Bernard"
-6,"Stephen Blancheto"
-6,"James Cook"
-6,"Frederick Fisher"
-6,"Ian MacLeod"
-6,"Heidi Pivrick"
-6,"David Jake"
-6,"Randy Wheeler"
-6,"Donald Wiser"
-7,"James Powell"
-7,"Joseph Farrol"
-7,"Tom Faurett"
-7,"Robert Fisher"
-7,"Warren Thoudus"
-7,"John Letourneau"
-7,"Fran Masbuly"
-7,"William Newheart"
-7,"Jeffrey Smits"
-7,"John Whitburt"
-7,"Linda Lammi"
-7,"Pithen Johneson"
-7,"Ruth Wojciak"
-8,"Norman Delish"
-8,"Mark Freita"
-8,"Robert Pancotte"
-8,"Jill Fabricant"
-8,"Robert Fincher"
-8,"John Grout"
-8,"Eric Marn"
-8,"Michele Neville"
-8,"Carla Samms"
-8,"Bradford Steinka"
-9,"Robert Kinicki"
-9,"Lynne D'Autrechy"
-9,"James McCallum"
-9,"Linda Mitchell"
-9,"Robert Grossman"
-10,"Thomas Clark"
-10,"Patricia Gaurrin"
-10,"Edward Hinton"
-10,"Ronald Pettit"
-10,"Terry Soule"
-11,"Stanley Selkow"
-11,"Mark Besse"
-11,"Cathens Cozne"
-11,"Siyal Dewe"
-11,"Dahis Ding"
-11,"Diane Mammarelli"
-11,"Maureen Sexton"
-11,"Neil Sullivan"
-11,"Arthur Whitehead"
-12,"William Andrews"
-12,"Keith Comeford"
-12,"Susan Coombs"
-12,"Michael Fortracles"
-12,"Daniel Fretz"
-12,"Stuart McLean"
-12,"Stephen Mungan"
-12,"Mark Ball"
-12,"David Shaiford"
-12,"Benedict Valcone"
-13,"Stephen Fontes"
-13,"Susan Abramson"
-13,"Mark Carpenter"
-13,"Steven Davi"
-13,"Sheryl French"
-13,"Elizabeth Phalen"
-14,"Daniel Flowers"
-14,"Jeffrey Krofft"
-14,"Suzanne Piorost"
-14,"Dawna Stowell"
-15,"James Cugg"
-15,"Christopher Walton"
-15,"Piker Day"
-15,"Richard Boudod"
-15,"Wendy Calway"
-15,"John Dennard"
-15,"Krit Hoamy"
-15,"Luke Jones"
-15,"Mark Kross"
-15,"Fritz Holtz"
-15,"Howard Rafal"
-15,"John Mart"
-16,"Pamela Cullireth"
-16,"Don Kallberg"
-16,"David Steere"
-17,"Jeremy Gilbert"
-17,"Seth Hillman"
-17,"Fran Heinze"
-17,"Richard June"
-17,"Adam Liberman"
-17,"Gregory Mayo"
-17,"Stephen Thamel"
-17,"Jean-Pierre Trevisani"
-17,"Thomas Whitner"
-17,"Joshua Gruns"
-18,"Andy Fuett"
-18,"David Gosselin"
-18,"Richard Mood"
-19,"Tom Litz"
-19,"Chris Arthur"
-19,"James Boyd"
-19,"Jeffrey LeBlanc"
-19,"Ron Parn"
-19,"Xavier Trevisani"
-19,"Steven Pratt"
-19,"John Richards"
-19,"Paul Atthin"
-19,"Gary Pratt"
-19,"Kevin Gaurdian"
-19,"Joe Zoraz"
-20,"Brian Winter"
-20,"Kevin Bowen"
-20,"Robert Hofre"
-20,"John Joy"
-20,"Anne O'Connor"
-20,"Cris Piny"
-20,"Scott Plichta"
-21,"Aaron Grassy"
-21,"Den Lid"
-21,"Douglas Murdoch"
-21,"Karen Marietega"
-21,"Ron Milken"
-22,"Michael Gennert"
-22,"Jay Bortabi"
-22,"Kevin Goroway"
-22,"Thomas Proulx"
-22,"James Royea"
-22,"Pat Flynne"
-23,"Kristen Cadwell"
-23,"Peter David"
-23,"Aju John"
-23,"Dhenne Shah"
-23,"Gregory Shapiro"
-24,"Erik Currin"
-24,"Anthony Defusco III"
-24,"David Hill"
-24,"Jonathan Kemble"
-24,"Mark Stasiewski"
-24,"Ramin Taraz"
-24,"Ken Theriault"
-25,"Michael Buvarsky"
-25,"Howard Dickerman"
-26,"Timothy Fraser"
-26,"Daniel Gaines"
-26,"Scott Johnson"
-26,"Christopher Kmiec"
-26,"Greg Murray"
-26,"Brian Phaneuf"
-26,"Greg Snyder"
-27,"Joseph Branciforte"
-27,"Michael Hanson"
-27,"Robert Mason"
-27,"James Metzler"
-27,"Mike Ripley"
-27,"Richard Seiffert"
-27,"Paul Szymkiewicz"
-28,"Jason Anderson"
-28,"Patricia Currier"
-28,"Christopher Elsbree"
-28,"Michael Hoar"
-28,"Karl Kutschke"
-28,"Richard Shea"
-28,"Derek Shute"
-29,"Keith Barrett"
-29,"Kim Bartty"
-29,"Jae Chung"
-29,"Rollin Crittendon"
-29,"Gabriel Ernst-Edwards"
-29,"Nabil Hachem"
-29,"James Mach"
-29,"Allen Martin"
-29,"Patrick McManus"
-29,"Kathy Merck"
-29,"Darren Meyer"
-29,"Ronald Passerini"
-29,"Scott Salvidio"
-30,"Mishaal Almashan"
-30,"Yuriy Elkin"
-30,"Edward Ioffe"
-30,"Dan Grecu"
-30,"Mark Simon"
-30,"Michael Lepore"
-30,"David Spencer"
-31,"Craig Wills"
-31,"Carla Agrit"
-31,"Geoffrey Bourggard"
-31,"Sam Whiley"
-31,"Jim Ines"
-31,"Jesse Zkineus"
-31,"Ben Kher"
-31,"Dimitri Lisin"
-31,"Alexandria Sewety"
-31,"Baldos Hairborn"
-31,"Joseph Niguen"
-31,"Sameer Bhoite"
-32,"Clinton Murl"
-32,"Dan Tren"
-33,"Donald Matthews"
-33,"Peter Leveille"
-33,"John West"
-33,"Steven Kaldeck"
-33,"Peter Stubbs"
-33,"Michael Samson"
-34,"Kristopher Babic"
-34,"Meinly Pell"
-34,"Danny Hears"
-34,"Richard Chency"
-34,"Keith A. Pray"
-34,"Carleton Jillson"
-34,"Jay Lass"
-34,"Steven Schveighoffer"
-34,"Mikhail Mikhailov"
-35,"Justin Brzozoski"
-35,"Justin Cozzens"
-35,"Henry Gabryelski"
-35,"Kimberly Sargent"
-35,"Jet Zyih"
-35,"Robert McDonald"
-35,"Ryan Bloom"
-35,"Eric Shea"
-35,"Tim Miranda"
-35,"Tony Wu"
-35,"John Tarn"
-35,"David Brisbay"
-36,"Kevin Amorin"
-36,"Peter Chin"
-36,"Theo Van Dinter"
-36,"Steve Dupree"
-36,"Robert Foulis"
-36,"Jason Gerek"
-36,"Lijun Liu"
-36,"Mike Morano"
-36,"Matthew Sartin"
-36,"Gregory Seegert"
-36,"Nate Springer"
-36,"Brian Whitman"
-36,"Zak Zebroski"
-37,"Benjamin Clark"
-37,"Peter Golaszewski"
-37,"Sebastian Jastrzebski"
-37,"Amy Kao"
-37,"Miguel Maldonado"
-37,"Jason Moreau"
-37,"Mark Mozynski"
-37,"Brandon Ngo"
-37,"Chris Petersen"
-37,"Michael Piecuch"
-37,"Darren Ranalli"
-37,"Nirav Shah"
-37,"Sharad Shonagarwala"
-37,"Makoto Waseda"
-37,"Lei Zhang"
-38,"Shane Almeida"
-38,"Janet Elizabeth Burge"
-38,"Seth Britten Chandler"
-38,"Brian J. Corcoran"
-38,"Ethan Andrew Croteau"
-38,"Katica Dimitrova"
-38,"Maged El Sayed"
-38,"Jonathan Freyberger"
-38,"Alek Icev"
-38,"Tom Livak"
-38,"Nick Nassar"
-38,"Oleg Rekutin"
-38,"Brian Roberts"
-38,"Asima Silva"
-38,"Iavor N. Trifonov"
-38,"Scott Wallace"
-38,"John F. Waymouth"
-38,"Alexander Weiner"
-39,"Kevin J Menard"
-39,"Goss F Nuzzo-Jones"
-39,"Yvonne W Mok"
-40,"Daniel Alan Adams"
-40,"David Seth Hunter"
-40,"Paul Liberman"
-40,"Peter James Lohrmann"
-40,"Brian Craig Mentz"
-40,"Nishant Mehta"
-40,"Kevin Michael Monahan"
-40,"Brian Lawrence Ellis"
-40,"Sam Hameed Gharabally"
-40,"Eric Leshay"
-40,"Anilkumar Patro"
-40,"Nicholas Andrew Pinney"
-40,"Kai Pariser Rasmussen"
-40,"Warren J Schudy"
-40,"Arvinder Singh"
-40,"Mahim Singh"
-40,"Russell P. Souza"
-40,"Dharmesh Thakkar"
-40,"Sicilia Puspita Wijaya"
-41,"Craig H Andrews"
-41,"James Dominic Baldassari"
-41,"Travis W Briggs"
-41,"Sean Brendan Doherty"
-41,"Leonard Ephraim Frank"
-41,"Jon Tomas Gretarsson"
-41,"Daniel S Jennings"
-41,"Brandon M Kilgore"
-41,"William Lee"
-41,"Abraao N Lourenco"
-41,"Michael Sturrup McCowan"
-41,"Michael L Putnum"
-41,"Andrew F Ralich"
-41,"Thomas J Rybka"
-41,"Patrick Salmon"
-41,"Matthew L Shaw"
-41,"Joshua Rose Smolic"
-41,"Robert J Spremuli"
-41,"Lauren Hilary Stolzar"
-41,"David Toth"
-41,"Venera Verbanova"
-41,"Alex Lee White"
-42,"Artur Janc"
-42,"Kevin Kardian"
-42,"Mike Rawdon"
-42,"Paul Sader"
-43,"Bradley A. Momberger"
-43,"Andrew Bangs"
-43,"Mingzhe Li"
-43,"Paul Michael Freitas"
-43,"Franklin E. Angulo"
-43,"Elliot Miller"
-43,"Stuart Floyd"
-44,"Neal Orman"
-44,"William Andy Pfeil"
-44,"Cosmin Tudor"
-44,"Christopher Songer"
-44,"Bogomil Vesselinov Tselkov"
-44,"Isaac Chanin"
-45,"Alin Sirbu"
-45,"Andrey Skylar"
-45,"Nikki Lynn Benecke"
-45,"Berk Birand"
-45,"Geoffrey E. Verbeke"
-45,"Christopher Fontana"
-45,"Denis V Golovnya"
-45,"Benjamin Childs"
-45,"Christian Roy"
-45,"Preston Plese"
-45,"Cody Rank"
-46,"Philip Hanson"
-46,"Joshua Nedelka"
-46,"Michael Zhang"
-46,"Christopher Drouin"
-46,"Antoniya Statelova"
-46,"Theophilos Giannakopoulos"
-46,"Berk Birand"
-46,"Robert Breznak"
-46,"Zach Pardos"
-46,"Kathryn Fisler"
-47,"Zach A. Pardos"
-47,"Alyssa Hargraves"
-47,"Joseph G. Politz"
-47,"Zachary Forbes Kamsler"
-47,"Timothy James Loughlin"
-47,"Brett Michael Levasseur"
-47,"Jonathan D. Gibbons"
-47,"Niva Shrestha"
-47,"Karin Adria Bryant Nova"
-47,"Manasi Pradeep Vartak"
-47,"Christopher T. King"
-48,"Gary F. Pollice"
-48,"Pablo Goncalvers de Barros"
-48,"Kara B Greenfield"
-48,"Katy Levinson"
-48,"Mihai Tiberia Luca"
-48,"Robert Martin"
-49,"Austin Noto-Moni"
-49,"Andreea Bobnari"
-49,"Richard Dicroce"
-49,"Christopher Kevorkian"
-50,"Taylor Andrews"
-50,"Nate Thorn"
-50,"Elliot Borenstein"
-50,"Zhaochen 'JJ' Liu"
-50,"Erik Archambault"
-50,"John Vilk"
-50,"Matt Runkle"
-50,"Jared Hays"
-50,"Ian Williams"
-50,"Lucas Scotta"
-51,"Pragathi Balasubramanian"
-51,"Richard Brown"
-51,"Paul Kehrer"
-51,"Wesley Ripley"
-51,"Stephen Ruck"
-51,"Eric Walston"
-52,"Marc Green"
-52,"Michael Calder"
-52,"Bohao Li"
-52,"David Pounds"
-52,"Mark Chaoui"
-52,"Nathan Longnecker"
-52,"Christopher Casola"
-52,"Brian Gaffey"
-52,"Mitchell Wills"
-52,"Ryan Danas"
-52,"Anjali Venkatesh"
-52,"Taymon Beal"
-52,"Christina Aiello"
-52,"Sarun Paisarnsrisomsuk"
-52,"Doran Smestad"
-52,"Remy Jette"
-52,"Salman Saghafi"
-52,"Nicholas Morin"
-52,"Gregory Wheeler"
-52,"Nicholas DeMarinis"
-52,"Steven Malis"
-52,"Adrian Boteanu"
-52,"Leah Greer"
-52,"Paul Malmsten"
-52,"Kevin Hufnagle"
-53,"Rachel Wigell"
-53,"Zhongxiu Liu"
-53,"Christopher R. Botaish"
-53,"Fredric Silberberg"
-53,"Thanaporn Patikorn"
-53,"Robert Dabrowski"
-53,"Daniel Robertson"
-53,"Mike Perrone"
-53,"Ian Adam Naval"
-53,"John French"
-53,"Visit Pataranutaporn"
-54,"Timothy DeFreitas"
-54,"Elke A. Rundensteiner"
-54,"William Hawkins"
-54,"Daniel D. Bouffard"
-54,"Justin Chines"
-54,"Thomas Grimshaw"
-54,"Evan Polekoff"
-54,"Joshua Keller"
-54,"Victor Eduardo Andreoni Paseka"
-55,"Ben McMorran"
-55,"Sam Mailand"
-55,"Matthew Heon"
-55,"Zhuohao Ling"
-55,"Zachary Robbins"
-55,"Amanda Adkins"
-55,"James Megin"
-55,"Samantha Swartz"
-55,"Gabor Sarkozy"
-55,"John Breen"
-55,"Caleb Stepanian"
-55,"Mohammad Shayganfar"
-55,"Brian Card"
-55,"Sean Amos"
-55,"Josh Hebert"
-55,"Xi Wen"
-55,"Chuan Lei"
-55,"Barry Biletch"
-55,"Jason Whitehouse"
-56,"Lucas McLaughlin"
-56,"Nathan Hughes"
-56,"Alexander Wald"
-56,"William Temple"
-56,"Laurentiu Pavel"
-56,"Thomas Meehan"
-56,"Ying Lu"
-56,"Lukas Hunker"
-56,"Andrew Han"
-56,"Joshua Allard"
-56,"George Heineman"
-57,"Alexander Shoop"
-57,"Erin Esco"
-57,"Tiffany Leung"
-57,"Thomas Clark"
-57,"Bryce Kaw-Uh"
-57,"Tim Petri"
-57,"Michael Giancola"
-57,"Huyen Nguyen"
-57,"Aura Velarde Ramirez"
-57,"Ruofan Ding"
-57,"Jean Marc Touma"
-57,"Kyle Young"
-57,"Patrick Plenefisch"
-57,"Nicholas Brown"
-57,"Sai Kiran Vadlamudi"
-58,"Charles Lovering"
-58,"Xiaoman Xu"
-58,"John Pryor"
-58,"Tucker Haydon"
-58,"Rodica Neamtu"
-58,"Obatola Seward-Evans"
-58,"Matthew McCarthy"
-58,"Madeleine Longo"
-58,"Lauren Baker"
-58,"Kyle Carrero"
-58,"Kacper Puczydlowski"
-58,"Ian Shusdock"
-58,"Erik Sola"
-58,"Doruk Uzunoglu"
-58,"Devin Mcallester"
-58,"Brett Ammeson"
-58,"Ankit Kumar"
-58,"Andrew Mokotoff"
-58,"Akshit Soota"
-59,"Holly Nguyen"
-59,"Isamu Vossoughi"
-59,"Ian Vossoughi"
-59,"Jordan Burkland"
-59,"Kartik Vasu"
-59,"Kunal Shah"
-59,"Paul Roberts"
-59,"Hoang Ngo"
-59,"Kyle McCormick"
-59,"Jeffrey Martin"
-59,"Jesse Marciano"
-59,"Arthur Lockman"
-59,"Brian Keeley-DeBonis"
-59,"Juan Luis Herroro Estrada"
-59,"Jacob Henry"
-59,"Dylan Fontana"
-59,"Diana Doherty"
-59,"Griffin Bishop"
-59,"Daniel Alfred"
-60,"Josh Desmond"
-60,"Ryan Walsh"
-60,"Chad Underhill"
-60,"Harutyun Sadoyan"
-60,"Andrew Rottier"
-60,"Tejas Rao"
-60,"Cassidy Litch"
-60,"Mengwen Li"
-60,"Remy Kaldawy"
-60,"Jeffrey Estrada"
-60,"Kodey Converse"
-60,"Forrest Cinelli"
-60,"Nicholas Bradford"
-60,"Bradford Bonnano"
-60,"Tyler Beaupre"
-61,"Natalie Bloniarz"
-61,"Zachary Halzel"
-61,"Alissa Ostepenko"
-61,"Michael Krebs"
-61,"Andrew Walter"
-61,"Eula Zhong"
-61,"Colin Willoughby"
-61,"Steven Viola"
-61,"MaryAnn VanValkenburg"
-61,"Joseph Turcotte"
-61,"Cory Tapply"
-61,"Sola Shirai"
-61,"Grace Seiche"
-61,"Matthew Schueler"
-61,"Harsh Rana"
-61,"Alp Piskin"
-61,"Julian Lanson"
-61,"Matthew Kornitsky"
-61,"Jacob Kymisour"
-61,"Andrew DeRusha"
-61,"Georgina Cromwell"
-61,"Kyle Corry"
-61,"Brett Cohen"
-61,"Saahil Claypool"
-61,"Aidan Buffum"
-62,"Jason Abel"
-62,"Connor Anderson"
-62,"Eric Arthur"
-62,"Akshaj Balasubramanian"
-62,"Adam Bettigole"
-62,"Kyra Bresnahan"
-62,"Kevin O'Brien"
-62,"Madeline Burke"
-62,"Khuyen Cao"
-62,"Cormac Lynch-Collier"
-62,"Erin Conneilly"
-62,"Nathaniel Dennler"
-62,"Nathan Drewniak"
-62,"Robert Dwan"
-62,"Benjamin Emrick"
-62,"Thomas Gibbia"
-62,"Ankur Gupta"
-62,"Trang Ha"
-62,"Matthew Hagan"
-62,"Fareya Ikram"
-62,"Jason King"
-62,"Alec Kohlhoff"
-62,"Nicholas Krichevsky"
-62,"Ryan Lapointe"
-62,"Philippe Lessard"
-62,"Luke Luddington"
-62,"Peter Maida"
-62,"Andrew Markoski"
-62,"Benjamin Marshall"
-62,"Matthew McDonald"
-62,"Christopher Myers"
-62,"Dung (Kevin) Nguyen"
-62,"Andrew Nolan"
-62,"Joseph Petitti"
-62,"Henry Poskanzer"
-62,"Matthew Puentes"
-62,"Andrew Robbertz"
-62,"Lucas Sacherer"
-62,"Brandon Sanders"
-62,"Robert Scalfani"
-62,"William Schwartz"
-62,"Akash Shaji"
-62,"Jarod Thompson"
-62,"Maxwell Westwater"
-62,"Roger Wirkala"
-62,"Joan Wong"
-62,"Alexamder Wurts"
-62,"Jessie Ying"
-62,"Eda Zhou"
-62,"Brian Zylich"
+initiation,name,inactive
+1,"Norman Sondak",false
+1,"Stephen Alpert",false
+1,"Leonard Lipner",false
+1,"Charles Pritchard",false
+1,"Norman Rolm",false
+1,"Ramon Scott",false
+1,"James Perry",false
+1,"Richard Daihorski",false
+1,"Kathleen McCarthy",false
+2,"Michael Malanca",false
+2,"Joseph Soetens",false
+2,"Gerard Robidoux",false
+2,"Gregory Walsh",false
+2,"William Marshall",false
+2,"Craig Plourde",false
+3,"Jean Smelewicz",false
+3,"Kenneth Hu",false
+4,"John Wilson",false
+4,"David Chabot",false
+4,"Roger Heinen",false
+4,"Richard Hully",false
+4,"George Kaczowka",false
+4,"Jean Pritchard",false
+4,"Riebaed Habworth",false
+4,"David Wason",false
+4,"Michael Banovsky",false
+4,"Marc DeVoe",false
+4,"Richard Garstka",false
+4,"David Kinder",false
+4,"Craig Lamb",false
+4,"Kathleen Morse",false
+4,"Michael Stadelmann",false
+4,"Frank Vanecek",false
+4,"Joseph Whistor",false
+5,"Ralph Chapman",false
+5,"Richard Amtorz",false
+5,"Michael Kenniston",false
+5,"John McGee",false
+5,"Edward Menard",false
+5,"Eric Northrop",false
+5,"John Wallace",false
+5,"Steven Wolfe",false
+6,"John Arnold",false
+6,"Annemarie Bernard",false
+6,"Stephen Blancheto",false
+6,"James Cook",false
+6,"Frederick Fisher",false
+6,"Ian MacLeod",false
+6,"Heidi Pivrick",false
+6,"David Jake",false
+6,"Randy Wheeler",false
+6,"Donald Wiser",false
+7,"James Powell",false
+7,"Joseph Farrol",false
+7,"Tom Faurett",false
+7,"Robert Fisher",false
+7,"Warren Thoudus",false
+7,"John Letourneau",false
+7,"Fran Masbuly",false
+7,"William Newheart",false
+7,"Jeffrey Smits",false
+7,"John Whitburt",false
+7,"Linda Lammi",false
+7,"Pithen Johneson",false
+7,"Ruth Wojciak",false
+8,"Norman Delish",false
+8,"Mark Freita",false
+8,"Robert Pancotte",false
+8,"Jill Fabricant",false
+8,"Robert Fincher",false
+8,"John Grout",false
+8,"Eric Marn",false
+8,"Michele Neville",false
+8,"Carla Samms",false
+8,"Bradford Steinka",false
+9,"Robert Kinicki",false
+9,"Lynne D'Autrechy",false
+9,"James McCallum",false
+9,"Linda Mitchell",false
+9,"Robert Grossman",false
+10,"Thomas Clark",false
+10,"Patricia Gaurrin",false
+10,"Edward Hinton",false
+10,"Ronald Pettit",false
+10,"Terry Soule",false
+11,"Stanley Selkow",false
+11,"Mark Besse",false
+11,"Cathens Cozne",false
+11,"Siyal Dewe",false
+11,"Dahis Ding",false
+11,"Diane Mammarelli",false
+11,"Maureen Sexton",false
+11,"Neil Sullivan",false
+11,"Arthur Whitehead",false
+12,"William Andrews",false
+12,"Keith Comeford",false
+12,"Susan Coombs",false
+12,"Michael Fortracles",false
+12,"Daniel Fretz",false
+12,"Stuart McLean",false
+12,"Stephen Mungan",false
+12,"Mark Ball",false
+12,"David Shaiford",false
+12,"Benedict Valcone",false
+13,"Stephen Fontes",false
+13,"Susan Abramson",false
+13,"Mark Carpenter",false
+13,"Steven Davi",false
+13,"Sheryl French",false
+13,"Elizabeth Phalen",false
+14,"Daniel Flowers",false
+14,"Jeffrey Krofft",false
+14,"Suzanne Piorost",false
+14,"Dawna Stowell",false
+15,"James Cugg",false
+15,"Christopher Walton",false
+15,"Piker Day",false
+15,"Richard Boudod",false
+15,"Wendy Calway",false
+15,"John Dennard",false
+15,"Krit Hoamy",false
+15,"Luke Jones",false
+15,"Mark Kross",false
+15,"Fritz Holtz",false
+15,"Howard Rafal",false
+15,"John Mart",false
+16,"Pamela Cullireth",false
+16,"Don Kallberg",false
+16,"David Steere",false
+17,"Jeremy Gilbert",false
+17,"Seth Hillman",false
+17,"Fran Heinze",false
+17,"Richard June",false
+17,"Adam Liberman",false
+17,"Gregory Mayo",false
+17,"Stephen Thamel",false
+17,"Jean-Pierre Trevisani",false
+17,"Thomas Whitner",false
+17,"Joshua Gruns",false
+18,"Andy Fuett",false
+18,"David Gosselin",false
+18,"Richard Mood",false
+19,"Tom Litz",false
+19,"Chris Arthur",false
+19,"James Boyd",false
+19,"Jeffrey LeBlanc",false
+19,"Ron Parn",false
+19,"Xavier Trevisani",false
+19,"Steven Pratt",false
+19,"John Richards",false
+19,"Paul Atthin",false
+19,"Gary Pratt",false
+19,"Kevin Gaurdian",false
+19,"Joe Zoraz",false
+20,"Brian Winter",false
+20,"Kevin Bowen",false
+20,"Robert Hofre",false
+20,"John Joy",false
+20,"Anne O'Connor",false
+20,"Cris Piny",false
+20,"Scott Plichta",false
+21,"Aaron Grassy",false
+21,"Den Lid",false
+21,"Douglas Murdoch",false
+21,"Karen Marietega",false
+21,"Ron Milken",false
+22,"Michael Gennert",false
+22,"Jay Bortabi",false
+22,"Kevin Goroway",false
+22,"Thomas Proulx",false
+22,"James Royea",false
+22,"Pat Flynne",false
+23,"Kristen Cadwell",false
+23,"Peter David",false
+23,"Aju John",false
+23,"Dhenne Shah",false
+23,"Gregory Shapiro",false
+24,"Erik Currin",false
+24,"Anthony Defusco III",false
+24,"David Hill",false
+24,"Jonathan Kemble",false
+24,"Mark Stasiewski",false
+24,"Ramin Taraz",false
+24,"Ken Theriault",false
+25,"Michael Buvarsky",false
+25,"Howard Dickerman",false
+26,"Timothy Fraser",false
+26,"Daniel Gaines",false
+26,"Scott Johnson",false
+26,"Christopher Kmiec",false
+26,"Greg Murray",false
+26,"Brian Phaneuf",false
+26,"Greg Snyder",false
+27,"Joseph Branciforte",false
+27,"Michael Hanson",false
+27,"Robert Mason",false
+27,"James Metzler",false
+27,"Mike Ripley",false
+27,"Richard Seiffert",false
+27,"Paul Szymkiewicz",false
+28,"Jason Anderson",false
+28,"Patricia Currier",false
+28,"Christopher Elsbree",false
+28,"Michael Hoar",false
+28,"Karl Kutschke",false
+28,"Richard Shea",false
+28,"Derek Shute",false
+29,"Keith Barrett",false
+29,"Kim Bartty",false
+29,"Jae Chung",false
+29,"Rollin Crittendon",false
+29,"Gabriel Ernst-Edwards",false
+29,"Nabil Hachem",false
+29,"James Mach",false
+29,"Allen Martin",false
+29,"Patrick McManus",false
+29,"Kathy Merck",false
+29,"Darren Meyer",false
+29,"Ronald Passerini",false
+29,"Scott Salvidio",false
+30,"Mishaal Almashan",false
+30,"Yuriy Elkin",false
+30,"Edward Ioffe",false
+30,"Dan Grecu",false
+30,"Mark Simon",false
+30,"Michael Lepore",false
+30,"David Spencer",false
+31,"Craig Wills",false
+31,"Carla Agrit",false
+31,"Geoffrey Bourggard",false
+31,"Sam Whiley",false
+31,"Jim Ines",false
+31,"Jesse Zkineus",false
+31,"Ben Kher",false
+31,"Dimitri Lisin",false
+31,"Alexandria Sewety",false
+31,"Baldos Hairborn",false
+31,"Joseph Niguen",false
+31,"Sameer Bhoite",false
+32,"Clinton Murl",false
+32,"Dan Tren",false
+33,"Donald Matthews",false
+33,"Peter Leveille",false
+33,"John West",false
+33,"Steven Kaldeck",false
+33,"Peter Stubbs",false
+33,"Michael Samson",false
+34,"Kristopher Babic",false
+34,"Meinly Pell",false
+34,"Danny Hears",false
+34,"Richard Chency",false
+34,"Keith A. Pray",false
+34,"Carleton Jillson",false
+34,"Jay Lass",false
+34,"Steven Schveighoffer",false
+34,"Mikhail Mikhailov",false
+35,"Justin Brzozoski",false
+35,"Justin Cozzens",false
+35,"Henry Gabryelski",false
+35,"Kimberly Sargent",false
+35,"Jet Zyih",false
+35,"Robert McDonald",false
+35,"Ryan Bloom",false
+35,"Eric Shea",false
+35,"Tim Miranda",false
+35,"Tony Wu",false
+35,"John Tarn",false
+35,"David Brisbay",false
+36,"Kevin Amorin",false
+36,"Peter Chin",false
+36,"Theo Van Dinter",false
+36,"Steve Dupree",false
+36,"Robert Foulis",false
+36,"Jason Gerek",false
+36,"Lijun Liu",false
+36,"Mike Morano",false
+36,"Matthew Sartin",false
+36,"Gregory Seegert",false
+36,"Nate Springer",false
+36,"Brian Whitman",false
+36,"Zak Zebroski",false
+37,"Benjamin Clark",false
+37,"Peter Golaszewski",false
+37,"Sebastian Jastrzebski",false
+37,"Amy Kao",false
+37,"Miguel Maldonado",false
+37,"Jason Moreau",false
+37,"Mark Mozynski",false
+37,"Brandon Ngo",false
+37,"Chris Petersen",false
+37,"Michael Piecuch",false
+37,"Darren Ranalli",false
+37,"Nirav Shah",false
+37,"Sharad Shonagarwala",false
+37,"Makoto Waseda",false
+37,"Lei Zhang",false
+38,"Shane Almeida",false
+38,"Janet Elizabeth Burge",false
+38,"Seth Britten Chandler",false
+38,"Brian J. Corcoran",false
+38,"Ethan Andrew Croteau",false
+38,"Katica Dimitrova",false
+38,"Maged El Sayed",false
+38,"Jonathan Freyberger",false
+38,"Alek Icev",false
+38,"Tom Livak",false
+38,"Nick Nassar",false
+38,"Oleg Rekutin",false
+38,"Brian Roberts",false
+38,"Asima Silva",false
+38,"Iavor N. Trifonov",false
+38,"Scott Wallace",false
+38,"John F. Waymouth",false
+38,"Alexander Weiner",false
+39,"Kevin J Menard",false
+39,"Goss F Nuzzo-Jones",false
+39,"Yvonne W Mok",false
+40,"Daniel Alan Adams",false
+40,"David Seth Hunter",false
+40,"Paul Liberman",false
+40,"Peter James Lohrmann",false
+40,"Brian Craig Mentz",false
+40,"Nishant Mehta",false
+40,"Kevin Michael Monahan",false
+40,"Brian Lawrence Ellis",false
+40,"Sam Hameed Gharabally",false
+40,"Eric Leshay",false
+40,"Anilkumar Patro",false
+40,"Nicholas Andrew Pinney",false
+40,"Kai Pariser Rasmussen",false
+40,"Warren J Schudy",false
+40,"Arvinder Singh",false
+40,"Mahim Singh",false
+40,"Russell P. Souza",false
+40,"Dharmesh Thakkar",false
+40,"Sicilia Puspita Wijaya",false
+41,"Craig H Andrews",false
+41,"James Dominic Baldassari",false
+41,"Travis W Briggs",false
+41,"Sean Brendan Doherty",false
+41,"Leonard Ephraim Frank",false
+41,"Jon Tomas Gretarsson",false
+41,"Daniel S Jennings",false
+41,"Brandon M Kilgore",false
+41,"William Lee",false
+41,"Abraao N Lourenco",false
+41,"Michael Sturrup McCowan",false
+41,"Michael L Putnum",false
+41,"Andrew F Ralich",false
+41,"Thomas J Rybka",false
+41,"Patrick Salmon",false
+41,"Matthew L Shaw",false
+41,"Joshua Rose Smolic",false
+41,"Robert J Spremuli",false
+41,"Lauren Hilary Stolzar",false
+41,"David Toth",false
+41,"Venera Verbanova",false
+41,"Alex Lee White",false
+42,"Artur Janc",false
+42,"Kevin Kardian",false
+42,"Mike Rawdon",false
+42,"Paul Sader",false
+43,"Bradley A. Momberger",false
+43,"Andrew Bangs",false
+43,"Mingzhe Li",false
+43,"Paul Michael Freitas",false
+43,"Franklin E. Angulo",false
+43,"Elliot Miller",false
+43,"Stuart Floyd",false
+44,"Neal Orman",false
+44,"William Andy Pfeil",false
+44,"Cosmin Tudor",false
+44,"Christopher Songer",false
+44,"Bogomil Vesselinov Tselkov",false
+44,"Isaac Chanin",false
+45,"Alin Sirbu",false
+45,"Andrey Skylar",false
+45,"Nikki Lynn Benecke",false
+45,"Berk Birand",false
+45,"Geoffrey E. Verbeke",false
+45,"Christopher Fontana",false
+45,"Denis V Golovnya",false
+45,"Benjamin Childs",false
+45,"Christian Roy",false
+45,"Preston Plese",false
+45,"Cody Rank",false
+46,"Philip Hanson",false
+46,"Joshua Nedelka",false
+46,"Michael Zhang",false
+46,"Christopher Drouin",false
+46,"Antoniya Statelova",false
+46,"Theophilos Giannakopoulos",false
+46,"Berk Birand",false
+46,"Robert Breznak",false
+46,"Zach Pardos",false
+46,"Kathryn Fisler",false
+47,"Zach A. Pardos",false
+47,"Alyssa Hargraves",false
+47,"Joseph G. Politz",false
+47,"Zachary Forbes Kamsler",false
+47,"Timothy James Loughlin",false
+47,"Brett Michael Levasseur",false
+47,"Jonathan D. Gibbons",false
+47,"Niva Shrestha",false
+47,"Karin Adria Bryant Nova",false
+47,"Manasi Pradeep Vartak",false
+47,"Christopher T. King",false
+48,"Gary F. Pollice",false
+48,"Pablo Goncalvers de Barros",false
+48,"Kara B Greenfield",false
+48,"Katy Levinson",false
+48,"Mihai Tiberia Luca",false
+48,"Robert Martin",false
+49,"Austin Noto-Moni",false
+49,"Andreea Bobnari",false
+49,"Richard Dicroce",false
+49,"Christopher Kevorkian",false
+50,"Taylor Andrews",false
+50,"Nate Thorn",false
+50,"Elliot Borenstein",false
+50,"Zhaochen 'JJ' Liu",false
+50,"Erik Archambault",false
+50,"John Vilk",false
+50,"Matt Runkle",false
+50,"Jared Hays",false
+50,"Ian Williams",false
+50,"Lucas Scotta",false
+51,"Pragathi Balasubramanian",false
+51,"Richard Brown",false
+51,"Paul Kehrer",false
+51,"Wesley Ripley",false
+51,"Stephen Ruck",false
+51,"Eric Walston",false
+52,"Marc Green",false
+52,"Michael Calder",false
+52,"Bohao Li",false
+52,"David Pounds",false
+52,"Mark Chaoui",false
+52,"Nathan Longnecker",false
+52,"Christopher Casola",false
+52,"Brian Gaffey",false
+52,"Mitchell Wills",false
+52,"Ryan Danas",false
+52,"Anjali Venkatesh",false
+52,"Taymon Beal",false
+52,"Christina Aiello",false
+52,"Sarun Paisarnsrisomsuk",false
+52,"Doran Smestad",false
+52,"Remy Jette",false
+52,"Salman Saghafi",false
+52,"Nicholas Morin",false
+52,"Gregory Wheeler",false
+52,"Nicholas DeMarinis",false
+52,"Steven Malis",false
+52,"Adrian Boteanu",false
+52,"Leah Greer",false
+52,"Paul Malmsten",false
+52,"Kevin Hufnagle",false
+53,"Rachel Wigell",false
+53,"Zhongxiu Liu",false
+53,"Christopher R. Botaish",false
+53,"Fredric Silberberg",false
+53,"Thanaporn Patikorn",false
+53,"Robert Dabrowski",false
+53,"Daniel Robertson",false
+53,"Mike Perrone",false
+53,"Ian Adam Naval",false
+53,"John French",false
+53,"Visit Pataranutaporn",false
+54,"Timothy DeFreitas",false
+54,"Elke A. Rundensteiner",false
+54,"William Hawkins",false
+54,"Daniel D. Bouffard",false
+54,"Justin Chines",false
+54,"Thomas Grimshaw",false
+54,"Evan Polekoff",false
+54,"Joshua Keller",false
+54,"Victor Eduardo Andreoni Paseka",false
+55,"Ben McMorran",false
+55,"Sam Mailand",false
+55,"Matthew Heon",false
+55,"Zhuohao Ling",false
+55,"Zachary Robbins",false
+55,"Amanda Adkins",false
+55,"James Megin",false
+55,"Samantha Swartz",false
+55,"Gabor Sarkozy",false
+55,"John Breen",false
+55,"Caleb Stepanian",false
+55,"Mohammad Shayganfar",false
+55,"Brian Card",false
+55,"Sean Amos",false
+55,"Josh Hebert",false
+55,"Xi Wen",false
+55,"Chuan Lei",false
+55,"Barry Biletch",false
+55,"Jason Whitehouse",false
+56,"Lucas McLaughlin",false
+56,"Nathan Hughes",false
+56,"Alexander Wald",false
+56,"William Temple",false
+56,"Laurentiu Pavel",false
+56,"Thomas Meehan",false
+56,"Ying Lu",false
+56,"Lukas Hunker",false
+56,"Andrew Han",false
+56,"Joshua Allard",false
+56,"George Heineman",false
+57,"Alexander Shoop",false
+57,"Erin Esco",false
+57,"Tiffany Leung",false
+57,"Thomas Clark",false
+57,"Bryce Kaw-Uh",false
+57,"Tim Petri",false
+57,"Michael Giancola",false
+57,"Huyen Nguyen",false
+57,"Aura Velarde Ramirez",false
+57,"Ruofan Ding",false
+57,"Jean Marc Touma",false
+57,"Kyle Young",false
+57,"Patrick Plenefisch",false
+57,"Nicholas Brown",false
+57,"Sai Kiran Vadlamudi",false
+58,"Charles Lovering",false
+58,"Xiaoman Xu",false
+58,"John Pryor",false
+58,"Tucker Haydon",false
+58,"Rodica Neamtu",false
+58,"Obatola Seward-Evans",false
+58,"Matthew McCarthy",false
+58,"Madeleine Longo",false
+58,"Lauren Baker",false
+58,"Kyle Carrero",false
+58,"Kacper Puczydlowski",false
+58,"Ian Shusdock",false
+58,"Erik Sola",false
+58,"Doruk Uzunoglu",false
+58,"Devin Mcallester",false
+58,"Brett Ammeson",false
+58,"Ankit Kumar",false
+58,"Andrew Mokotoff",false
+58,"Akshit Soota",false
+59,"Holly Nguyen",false
+59,"Isamu Vossoughi",false
+59,"Ian Vossoughi",false
+59,"Jordan Burkland",false
+59,"Kartik Vasu",false
+59,"Kunal Shah",false
+59,"Paul Roberts",false
+59,"Hoang Ngo",false
+59,"Kyle McCormick",false
+59,"Jeffrey Martin",false
+59,"Jesse Marciano",false
+59,"Arthur Lockman",false
+59,"Brian Keeley-DeBonis",false
+59,"Juan Luis Herroro Estrada",false
+59,"Jacob Henry",false
+59,"Dylan Fontana",false
+59,"Diana Doherty",false
+59,"Griffin Bishop",false
+59,"Daniel Alfred",false
+60,"Josh Desmond",false
+60,"Ryan Walsh",false
+60,"Chad Underhill",false
+60,"Harutyun Sadoyan",false
+60,"Andrew Rottier",false
+60,"Tejas Rao",false
+60,"Cassidy Litch",false
+60,"Mengwen Li",false
+60,"Remy Kaldawy",false
+60,"Jeffrey Estrada",false
+60,"Kodey Converse",false
+60,"Forrest Cinelli",false
+60,"Nicholas Bradford",false
+60,"Bradford Bonnano",false
+60,"Tyler Beaupre",false
+61,"Natalie Bloniarz",false
+61,"Zachary Halzel",false
+61,"Alissa Ostepenko",false
+61,"Michael Krebs",false
+61,"Andrew Walter",false
+61,"Eula Zhong",false
+61,"Colin Willoughby",false
+61,"Steven Viola",false
+61,"MaryAnn VanValkenburg",false
+61,"Joseph Turcotte",false
+61,"Cory Tapply",false
+61,"Sola Shirai",false
+61,"Grace Seiche",false
+61,"Matthew Schueler",false
+61,"Harsh Rana",false
+61,"Alp Piskin",true
+61,"Julian Lanson",false
+61,"Matthew Kornitsky",false
+61,"Jacob Kymisour",false
+61,"Andrew DeRusha",false
+61,"Georgina Cromwell",false
+61,"Kyle Corry",false
+61,"Brett Cohen",false
+61,"Saahil Claypool",false
+61,"Aidan Buffum",false
+62,"Jason Abel",false
+62,"Connor Anderson",false
+62,"Eric Arthur",false
+62,"Akshaj Balasubramanian",false
+62,"Adam Bettigole",false
+62,"Kyra Bresnahan",false
+62,"Kevin O'Brien",false
+62,"Madeline Burke",false
+62,"Khuyen Cao",false
+62,"Cormac Lynch-Collier",false
+62,"Erin Conneilly",false
+62,"Nathaniel Dennler",false
+62,"Nathan Drewniak",true
+62,"Robert Dwan",false
+62,"Benjamin Emrick",false
+62,"Thomas Gibbia",false
+62,"Ankur Gupta",false
+62,"Trang Ha",false
+62,"Matthew Hagan",false
+62,"Fareya Ikram",false
+62,"Jason King",false
+62,"Alec Kohlhoff",false
+62,"Nicholas Krichevsky",false
+62,"Ryan Lapointe",false
+62,"Philippe Lessard",false
+62,"Luke Luddington",false
+62,"Peter Maida",false
+62,"Andrew Markoski",false
+62,"Benjamin Marshall",false
+62,"Matthew McDonald",false
+62,"Christopher Myers",false
+62,"Dung (Kevin) Nguyen",false
+62,"Andrew Nolan",false
+62,"Joseph Petitti",false
+62,"Henry Poskanzer",false
+62,"Matthew Puentes",false
+62,"Andrew Robbertz",true
+62,"Lucas Sacherer",false
+62,"Brandon Sanders",false
+62,"Robert Scalfani",false
+62,"William Schwartz",true
+62,"Akash Shaji",false
+62,"Jarod Thompson",false
+62,"Maxwell Westwater",false
+62,"Roger Wirkala",false
+62,"Joan Wong",false
+62,"Alexamder Wurts",false
+62,"Jessie Ying",false
+62,"Eda Zhou",false
+62,"Brian Zylich",false
