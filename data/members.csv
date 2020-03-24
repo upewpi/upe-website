@@ -613,14 +613,14 @@ initiation,name,inactive
 62,"Erin Conneilly",false
 62,"Nathaniel Dennler",false
 62,"Nathan Drewniak",true
-62,"Robert Dwan",false
-62,"Benjamin Emrick",false
+62,"Robert Dwan",true
+62,"Benjamin Emrick",true
 62,"Thomas Gibbia",false
 62,"Ankur Gupta",false
 62,"Trang Ha",false
-62,"Matthew Hagan",false
+62,"Matthew Hagan",true
 62,"Fareya Ikram",false
-62,"Jason King",false
+62,"Jason King",true
 62,"Alec Kohlhoff",false
 62,"Nicholas Krichevsky",false
 62,"Ryan Lapointe",false
@@ -633,9 +633,9 @@ initiation,name,inactive
 62,"Christopher Myers",false
 62,"Dung (Kevin) Nguyen",false
 62,"Andrew Nolan",false
-62,"Joseph Petitti",false
+62,"Joseph Petitti",true
 62,"Henry Poskanzer",false
-62,"Matthew Puentes",false
+62,"Matthew Puentes",true
 62,"Andrew Robbertz",true
 62,"Lucas Sacherer",false
 62,"Brandon Sanders",false
@@ -644,7 +644,7 @@ initiation,name,inactive
 62,"Akash Shaji",false
 62,"Jarod Thompson",false
 62,"Maxwell Westwater",false
-62,"Roger Wirkala",false
+62,"Roger Wirkala",true
 62,"Joan Wong",false
 62,"Alexander Wurts",false
 62,"Jessie Ying",false
