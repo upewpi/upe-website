@@ -577,7 +577,7 @@ initiation,name,inactive
 60,"Tyler Beaupre",false
 61,"Natalie Bloniarz",false
 61,"Zachary Halzel",false
-61,"Alissa Ostepenko",false
+61,"Alissa Ostepenko",true
 61,"Michael Krebs",false
 61,"Andrew Walter",false
 61,"Eula Zhong",false
@@ -592,7 +592,7 @@ initiation,name,inactive
 61,"Harsh Rana",false
 61,"Alp Piskin",true
 61,"Julian Lanson",false
-61,"Matthew Kornitsky",false
+61,"Matthew Kornitsky",true
 61,"Jacob Kymisour",false
 61,"Andrew DeRusha",false
 61,"Georgina Cromwell",false
@@ -614,7 +614,7 @@ initiation,name,inactive
 62,"Nathaniel Dennler",false
 62,"Nathan Drewniak",true
 62,"Robert Dwan",true
-62,"Benjamin Emrick",true
+62,"Benjamin Emrick",false
 62,"Thomas Gibbia",false
 62,"Ankur Gupta",false
 62,"Trang Ha",false
@@ -636,9 +636,9 @@ initiation,name,inactive
 62,"Joseph Petitti",true
 62,"Henry Poskanzer",false
 62,"Matthew Puentes",true
-62,"Andrew Robbertz",true
+62,"Andrew Robbertz",false
 62,"Lucas Sacherer",false
-62,"Brandon Sanders",false
+62,"Brandon Sanders",true
 62,"Robert Scalfani",false
 62,"William Schwartz",false
 62,"Akash Shaji",false
@@ -667,7 +667,7 @@ initiation,name,inactive
 63,"Kamil Gumienny",false
 63,"Alan Healy",false
 63,"Harold (Terry) Hearst",false
-63,"Rui Huang",false
+63,"Rui Huang",true
 63,"Matt Iandoli",false
 63,"Peter Jankowski",false
 63,"Matthew Kaminski",false
@@ -677,7 +677,7 @@ initiation,name,inactive
 63,"Manas Mehta",false
 63,"Nick Odell",false
 63,"Baian Ou",false
-63,"Zonglin Peng",false
+63,"Zonglin Peng",true
 63,"Jean-Philippe Pierre",false
 63,"James Plante",false
 63,"Jackson Powell",false
