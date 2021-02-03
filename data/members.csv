@@ -626,9 +626,9 @@ initiation,name,inactive
 62,"Ryan Lapointe",false
 62,"Philippe Lessard",false
 62,"Luke Luddington",false
-62,"Peter Maida",false
+62,"Peter Maida",true
 62,"Andrew Markoski",false
-62,"Benjamin Marshall",false
+62,"Lucy Marshall",true
 62,"Matthew McDonald",false
 62,"Christopher Myers",false
 62,"Dung (Kevin) Nguyen",false
@@ -651,14 +651,14 @@ initiation,name,inactive
 62,"Eda Zhou",false
 62,"Brian Zylich",false
 63,"Justin Aquilante",false
-63,"Esteban Aranda Ramirez",false
+63,"Esteban Aranda Ramirez",true
 63,"Panos Argyrakis",false
 63,"Tyler Bouwens",false
 63,"Mike Capobianco",false
 63,"Noah Capucilli-Shatan",false
 63,"Marcus Chalmers",false
 63,"Imogen Cleaver-Stigum",false
-63,"Michael Clements",false
+63,"Michael Clements",true
 63,"Jonathan Dang",false
 63,"Raymond Dolan",false
 63,"Kyle Ehrlich",false
@@ -694,4 +694,4 @@ initiation,name,inactive
 63,"Kit Zellerbach",false
 64,"Revant Mahajan",false
 64,"Amelia Nishimura",false
-64,"Andrew Ressler",false
+64,"Andrew Ressler",true
