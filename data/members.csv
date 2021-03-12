@@ -694,7 +694,7 @@ initiation,name,inactive
 63,"Kit Zellerbach",false
 64,"Revant Mahajan",false
 64,"Amelia Nishimura",false
-64,"Andrew Ressler",true
+64,"Andrew Ressler",false
 65,"Florina Asani",false
 65,"Ryan Astor",false
 65,"Jack Ayvazian",false
@@ -725,7 +725,6 @@ initiation,name,inactive
 65,"Nathan Klingensmith",false
 65,"Shannen Lin",false
 65,"Evan Llewellyn",false
-65,"Kaamil Lokhandwala",false
 65,"Zhifei Ma",false
 65,"Paul Mara",false
 65,"Conor McDonough",false
