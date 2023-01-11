@@ -650,22 +650,22 @@ initiation,name,inactive
 62,"Jessie Ying",false
 62,"Eda Zhou",false
 62,"Brian Zylich",false
-63,"Justin Aquilante",true
+63,"Justin Aquilante",false
 63,"Esteban Aranda Ramirez",false
 63,"Panos Argyrakis",false
 63,"Tyler Bouwens",false
 63,"Mike Capobianco",false
 63,"Noah Capucilli-Shatan",false
-63,"Marcus Chalmers",true
-63,"Imogen Cleaver-Stigum",true
+63,"Marcus Chalmers",false
+63,"Imogen Cleaver-Stigum",false
 63,"Michael Clements",false
 63,"Jonathan Dang",false
 63,"Raymond Dolan",false
 63,"Kyle Ehrlich",false
-63,"Luke Gebler",true
+63,"Luke Gebler",false
 63,"Jordan Gold",false
 63,"Kamil Gumienny",false
-63,"Alan Healy",true
+63,"Alan Healy",false
 63,"Harold (Terry) Hearst",false
 63,"Rui Huang",false
 63,"Matt Iandoli",false
@@ -673,10 +673,10 @@ initiation,name,inactive
 63,"Matthew Kaminski",false
 63,"Aaron Krueger",false
 63,"David Martindale",false
-63,"Connor McLaughlin",true
+63,"Connor McLaughlin",false
 63,"Manas Mehta",false
 63,"Nick Odell",false
-63,"Baian Ou",true
+63,"Baian Ou",false
 63,"Zonglin Peng",false
 63,"Jean-Philippe Pierre",false
 63,"James Plante",false
@@ -690,7 +690,7 @@ initiation,name,inactive
 63,"Nathan Walzer",false
 63,"Yizhen Wang",false
 63,"Yixue Wang",false
-63,"Zachary Wong",true
+63,"Zachary Wong",false
 63,"Kit Zellerbach",false
 64,"Revant Mahajan",false
 64,"Amelia Nishimura",false
@@ -699,23 +699,23 @@ initiation,name,inactive
 65,"Ryan Astor",false
 65,"Jack Ayvazian",false
 65,"Jake Backer",false
-65,"Eli Benevedes",true
+65,"Eli Benevedes",false
 65,"Andrew Bonaventura",false
 65,"Vanessa Cardaropoli",true
 65,"Maddison Caten",false
-65,"Felix Chen",true
-65,"Nicole Conill",true
+65,"Felix Chen",false
+65,"Nicole Conill",false
 65,"Ian Coolidge",true
 65,"Adrian Curless",false
-65,"Joshua DeOliveira",true
+65,"Joshua DeOliveira",false
 65,"Luke Deratzou",false
 65,"Benjamin Diamond",false
 65,"Uri Dvir",true
-65,"Nour Elmaliki",true
+65,"Nour Elmaliki",false
 65,"Malek ElShakhs",false
 65,"Eren Eroglu",true
 65,"Samantha Gould",false
-65,"Suryansh Goyal",true
+65,"Suryansh Goyal",false
 65,"Yiwen Guan",false
 65,"Evan Hatton",false
 65,"John Higgins",true
@@ -736,10 +736,10 @@ initiation,name,inactive
 65,"Trevor Paley",false
 65,"Yash Patel",false
 65,"Heshan Perera",false
-65,"Benjamin Peters",false
+65,"Benjamin Peters",true
 65,"Edward Philippo",false
 65,"Noel Qiao",false
-65,"Brianna Roskind",true
+65,"Brianna Roskind",false
 65,"Renee Sawka",false
 65,"James Scherick",false
 65,"Ashley Schuliger",false
@@ -750,31 +750,31 @@ initiation,name,inactive
 65,"Adrianna Staszewska",false
 65,"Evelyn Tran",false
 65,"Lauren Wasserman",false
-66,"Alex Bolduc",false
+66,"Alex Bolduc",true
 66,"Tim Connors",true
-66,"Gregory Conrad",false
-66,"Carlie Flanagan",false
+66,"Gregory Conrad",true
+66,"Carlie Flanagan",true
 66,"Maylee Gagnon",false
 66,"Federico Galbiati",false
 66,"Sidney Goldinger",true
-66,"Smera Gora",false
+66,"Smera Gora",true
 66,"Patrick Hagearty",true
-66,"Katy Hartmann",false
+66,"Katy Hartmann",true
 66,"Lauren Hatfield",false
 66,"Matthew Hlushko",true
-66,"Patrick Hunter",true
+66,"Patrick Hunter",false
 66,"Eri Kim",true
 66,"Ben Kresge",true
-66,"Jadon Laforest",false
-66,"Helen Le",false
+66,"Jadon Laforest",true
+66,"Helen Le",true
 66,"Janette Lee Fong",false
-66,"Nestor Louis Lopez",true
+66,"Nestor Louis Lopez",false
 66,"Cole Manning",false
 66,"Ivan Martinovic",true
 66,"Dillon McCarthy",false
 66,"Natalie McClain",false
-66,"Alison McNicholas",false
-66,"Frank McShan IV",false
+66,"Alison McNicholas",true
+66,"Frank McShan IV",true
 66,"Jakob Misbach",false
 66,"Kiara Munz",false
 66,"Qui Nguyen",true
@@ -784,10 +784,10 @@ initiation,name,inactive
 66,"Brianna Sahagian",false
 66,"Jacob Salerno",true
 66,"Hayden Smith",false
-66,"Casey Snow",false
+66,"Casey Snow",true
 66,"Molly Sunray",false
 66,"Darian Tavana",true
-66,"Joshua H. Unger",false
+66,"Joshua H. Unger",true
 66,"Justin Weintraub",false
 66,"Grace Yue",false
 66,"Michael Zeolla",true
