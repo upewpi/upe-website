@@ -1,28 +1,28 @@
 {
-  "pages": [
-    {
-      "title": "Home",
-      "url": "index.html"
-    },
-    {
-      "title": "Members",
-      "url": "members.html"
-    },
-    {
-      "title": "Events",
-      "url": "events.html"
-    },
-    {
-      "title": "Career Fair",
-      "url": "careerfair.html"
-    },
-    {
-      "title": "2025 Career Fair Info",
-      "url": "careerfair2024.html"
-    },
-    {
-      "title": "Bylaws",
-      "url": "bylaws.html"
-    }
-  ]
+	"pages": [
+		{
+			"title": "Home",
+			"url": "index.html"
+		},
+		{
+			"title": "Members",
+			"url": "members.html"
+		},
+		{
+			"title": "Events",
+			"url": "events.html"
+		},
+		{
+			"title": "Career Fair",
+			"url": "careerfair.html"
+		},
+		{
+			"title": "2025 Career Fair Info",
+			"url": "careerfair2025.html"
+		},
+		{
+			"title": "Bylaws",
+			"url": "bylaws.html"
+		}
+	]
 }

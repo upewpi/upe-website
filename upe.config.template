@@ -1,0 +1,19 @@
+worker_processes 1;
+
+events {}
+
+http {
+    server {
+        listen 21223;
+        server_name localhost;
+
+        root *CHANGE TO YOUR WEBSITE DIRECTORY TO RUN LOCALLY*;
+        index index.html;
+
+        location / {
+            try_files $uri $uri/ =404;
+        }
+    }
+}
+
+DELETE THIS LINE AND RENAME TO upe.config WHEN RUNNING TO USE COPY PASTE COMMAND FROM DOC
